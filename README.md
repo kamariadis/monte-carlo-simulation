@@ -1,3 +1,3 @@
 # statistical-analysis
 
-This repository features code written for Monte Carlo method.
+This repository contains code for performing a Monte Carlo simulation to estimate the mean of an exponential function of normally distributed random variables, implemented in Scilab.
