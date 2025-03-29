@@ -26,7 +26,7 @@ double calcIntegral() {
 	return sum /= 1000000;
 }
 
-int main(void) {
+int main() {
 	cout << calcIntegral() << endl;
 	return 0;
 }
